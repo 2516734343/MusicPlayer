@@ -20,6 +20,6 @@
     "gulp-postcss": "^8.0.0",
     "gulp-strip-debug": "^3.0.0",
     "gulp-uglify": "^3.0.2",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
